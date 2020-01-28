@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\MostFrequent\bin\Debug\netcoreapp3.1\MostFrequent.exe
+C:\Users\Administrator\source\repos\MostFrequent\bin\Debug\netcoreapp3.1\MostFrequent.deps.json
+C:\Users\Administrator\source\repos\MostFrequent\bin\Debug\netcoreapp3.1\MostFrequent.runtimeconfig.json
+C:\Users\Administrator\source\repos\MostFrequent\bin\Debug\netcoreapp3.1\MostFrequent.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\MostFrequent\bin\Debug\netcoreapp3.1\MostFrequent.dll
+C:\Users\Administrator\source\repos\MostFrequent\bin\Debug\netcoreapp3.1\MostFrequent.pdb
+C:\Users\Administrator\source\repos\MostFrequent\obj\Debug\netcoreapp3.1\MostFrequent.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\MostFrequent\obj\Debug\netcoreapp3.1\MostFrequent.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\MostFrequent\obj\Debug\netcoreapp3.1\MostFrequent.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\MostFrequent\obj\Debug\netcoreapp3.1\MostFrequent.dll
+C:\Users\Administrator\source\repos\MostFrequent\obj\Debug\netcoreapp3.1\MostFrequent.pdb
